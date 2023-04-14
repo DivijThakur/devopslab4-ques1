@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShowCase/1.0.0": {
+        "dependencies": {
+          "StringLibrary": "1.0.0-CI-20230412-195709"
+        },
+        "runtime": {
+          "ShowCase.dll": {}
+        }
+      },
+      "StringLibrary/1.0.0-CI-20230412-195709": {
+        "runtime": {
+          "lib/net6.0/StringLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShowCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringLibrary/1.0.0-CI-20230412-195709": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-maX+jTGY6U5sl25wQ4mcgQHLttnssdTH4fo7me5RujOWhiQcqbJwl8RYwwm26Snx4hmu7itOIneS3uLCDFdTRA==",
+      "path": "stringlibrary/1.0.0-ci-20230412-195709",
+      "hashPath": "stringlibrary.1.0.0-ci-20230412-195709.nupkg.sha512"
+    }
+  }
+}

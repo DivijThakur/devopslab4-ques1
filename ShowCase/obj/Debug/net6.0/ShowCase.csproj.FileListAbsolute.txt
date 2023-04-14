@@ -1,0 +1,17 @@
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/bin/Debug/net6.0/ShowCase
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/bin/Debug/net6.0/ShowCase.deps.json
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/bin/Debug/net6.0/ShowCase.runtimeconfig.json
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/bin/Debug/net6.0/ShowCase.dll
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/bin/Debug/net6.0/ShowCase.pdb
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/bin/Debug/net6.0/StringLibrary.dll
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/ShowCase.csproj.AssemblyReference.cache
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/ShowCase.AssemblyInfoInputs.cache
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/ShowCase.AssemblyInfo.cs
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/ShowCase.csproj.CoreCompileInputs.cache
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/ShowCase.csproj.CopyComplete
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/ShowCase.dll
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/refint/ShowCase.dll
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/ShowCase.pdb
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/ShowCase.genruntimeconfig.cache
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/fromgithub/ClassLibraryProjectNew/ShowCase/obj/Debug/net6.0/ref/ShowCase.dll
